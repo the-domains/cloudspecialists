@@ -1,7 +1,7 @@
 name: cloudspecialists
 favicon: null
 layout_spectrum: 0.43522068951278925
-typography_spectrum: 0.8930217768065631
+typography_spectrum: 0.77956
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.2816790589131415
+    - '#41b6e5'
+    - '#fbfbfb'
+    - '#040a42'
+    - '#485169'
+    - '#b36545'
+  brandStrength: 0.75
   lightness: 0.8864309985656291
   saturation: 0.3893551838118583
   rhythmicContrast: 0.10288897412829101
